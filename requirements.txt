@@ -1,5 +1,5 @@
 aniso8601==3.0.0
-appdirs==1.4.3
+appdirs==1.4.4
 graphene==2.1
 graphql-core==2.0
 graphql-relay==0.4.5
