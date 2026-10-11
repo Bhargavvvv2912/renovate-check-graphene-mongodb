@@ -1,4 +1,4 @@
-aniso8601==3.0.0
+aniso8601==10.0.1
 appdirs==1.4.3
 graphene==2.1
 graphql-core==2.0
