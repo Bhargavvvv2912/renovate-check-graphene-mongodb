@@ -10,4 +10,4 @@ pymongo==3.6.1
 pyparsing==2.2.0
 rx==1.6.1
 six==1.11.0
-typing==3.6.4
+typing==3.10.0.0
