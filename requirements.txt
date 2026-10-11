@@ -1,7 +1,7 @@
 aniso8601==3.0.0
 appdirs==1.4.3
 graphene==2.1
-graphql-core==2.0
+graphql-core==2.3.2
 graphql-relay==0.4.5
 iso8601==0.1.12
 mongoengine==0.15.0
