@@ -8,6 +8,6 @@ mongoengine==0.15.0
 promise==2.1
 pymongo==3.6.1
 pyparsing==2.2.0
-rx==1.6.1
+rx==1.6.3
 six==1.11.0
 typing==3.6.4
